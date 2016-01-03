@@ -1,2 +1,2 @@
-# twitter-starttls-data
-STARTTLS data from Twitter
+# Twitter STARTTLS data
+Source: https://transparency.twitter.com/email-privacy
