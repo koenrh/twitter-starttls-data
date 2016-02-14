@@ -1,39 +1,34 @@
 {
     "ciphers": {
-        "DHE_DSS_AES_128_CBC_SHA1": 1,
-        "DHE_RSA_AES_128_CBC_SHA1": 41,
-        "DHE_RSA_AES_128_GCM_SHA256": 969,
-        "DHE_RSA_AES_256_CBC_SHA1": 959,
-        "DHE_RSA_AES_256_CBC_SHA256": 72595,
-        "DHE_RSA_CAMELLIA_256_CBC_SHA1": 2955,
-        "ECDHE_ECDSA_AES_128_GCM_SHA256": 43,
-        "ECDHE_RSA_3DES_EDE_CBC_SHA1": 9,
-        "ECDHE_RSA_AES_128_CBC_SHA1": 9534,
-        "ECDHE_RSA_AES_128_CBC_SHA256": 1625000,
-        "ECDHE_RSA_AES_128_GCM_SHA256": 5082943,
-        "ECDHE_RSA_AES_256_CBC_SHA1": 2103,
-        "ECDHE_RSA_AES_256_GCM_SHA384": 22109,
-        "RSA_3DES_EDE_CBC_SHA1": 307,
-        "RSA_AES_128_CBC_SHA1": 192336,
-        "RSA_AES_128_CBC_SHA256": 164,
-        "RSA_AES_128_GCM_SHA256": 235648,
-        "RSA_AES_256_CBC_SHA1": 122,
-        "RSA_AES_256_CBC_SHA256": 2630,
-        "RSA_ARCFOUR_128_MD5": 278,
-        "RSA_ARCFOUR_128_SHA1": 13963,
-        "RSA_CAMELLIA_128_CBC_SHA1": 1
+        "DHE_RSA_AES_128_GCM_SHA256": 11,
+        "DHE_RSA_AES_256_CBC_SHA1": 1,
+        "DHE_RSA_AES_256_CBC_SHA256": 91,
+        "DHE_RSA_CAMELLIA_256_CBC_SHA1": 4,
+        "ECDHE_RSA_AES_128_CBC_SHA1": 18,
+        "ECDHE_RSA_AES_128_CBC_SHA256": 2672,
+        "ECDHE_RSA_AES_128_GCM_SHA256": 11228,
+        "ECDHE_RSA_AES_256_CBC_SHA1": 2,
+        "ECDHE_RSA_AES_256_GCM_SHA384": 27,
+        "RSA_3DES_EDE_CBC_SHA1": 2,
+        "RSA_AES_128_CBC_SHA1": 3924,
+        "RSA_AES_128_CBC_SHA256": 1,
+        "RSA_AES_128_GCM_SHA256": 1306,
+        "RSA_AES_256_CBC_SHA1": 1,
+        "RSA_AES_256_CBC_SHA256": 3,
+        "RSA_ARCFOUR_128_MD5": 1,
+        "RSA_ARCFOUR_128_SHA1": 17
     },
     "counts": {
-        "non_tls": 508535,
-        "tls": 7264710,
-        "tls_nonpfs": 445449,
-        "tls_pfs": 6819261,
-        "total": 7773245
+        "non_tls": 1804,
+        "tls": 19309,
+        "tls_nonpfs": 5255,
+        "tls_pfs": 14054,
+        "total": 21113
     },
-    "now": 1455321541,
+    "now": 1455407941,
     "proto": {
-        "TLS1.0": 150592,
-        "TLS1.1": 13759,
-        "TLS1.2": 7100359
+        "TLS1.0": 2804,
+        "TLS1.1": 17,
+        "TLS1.2": 16488
     }
 }
