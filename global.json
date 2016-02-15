@@ -1,34 +1,29 @@
 {
     "ciphers": {
-        "DHE_RSA_AES_128_GCM_SHA256": 11,
-        "DHE_RSA_AES_256_CBC_SHA1": 1,
-        "DHE_RSA_AES_256_CBC_SHA256": 91,
-        "DHE_RSA_CAMELLIA_256_CBC_SHA1": 4,
-        "ECDHE_RSA_AES_128_CBC_SHA1": 18,
-        "ECDHE_RSA_AES_128_CBC_SHA256": 2672,
-        "ECDHE_RSA_AES_128_GCM_SHA256": 11228,
-        "ECDHE_RSA_AES_256_CBC_SHA1": 2,
-        "ECDHE_RSA_AES_256_GCM_SHA384": 27,
-        "RSA_3DES_EDE_CBC_SHA1": 2,
-        "RSA_AES_128_CBC_SHA1": 3924,
-        "RSA_AES_128_CBC_SHA256": 1,
-        "RSA_AES_128_GCM_SHA256": 1306,
-        "RSA_AES_256_CBC_SHA1": 1,
+        "DHE_RSA_AES_128_GCM_SHA256": 9,
+        "DHE_RSA_AES_256_CBC_SHA256": 84,
+        "DHE_RSA_CAMELLIA_256_CBC_SHA1": 3,
+        "ECDHE_RSA_AES_128_CBC_SHA1": 19,
+        "ECDHE_RSA_AES_128_CBC_SHA256": 2575,
+        "ECDHE_RSA_AES_128_GCM_SHA256": 7972,
+        "ECDHE_RSA_AES_256_CBC_SHA1": 5,
+        "ECDHE_RSA_AES_256_GCM_SHA384": 31,
+        "RSA_AES_128_CBC_SHA1": 1027,
+        "RSA_AES_128_GCM_SHA256": 691,
         "RSA_AES_256_CBC_SHA256": 3,
-        "RSA_ARCFOUR_128_MD5": 1,
-        "RSA_ARCFOUR_128_SHA1": 17
+        "RSA_ARCFOUR_128_SHA1": 21
     },
     "counts": {
-        "non_tls": 1804,
-        "tls": 19309,
-        "tls_nonpfs": 5255,
-        "tls_pfs": 14054,
-        "total": 21113
+        "non_tls": 1041,
+        "tls": 12440,
+        "tls_nonpfs": 1742,
+        "tls_pfs": 10698,
+        "total": 13481
     },
-    "now": 1455407941,
+    "now": 1455494341,
     "proto": {
-        "TLS1.0": 2804,
-        "TLS1.1": 17,
-        "TLS1.2": 16488
+        "TLS1.0": 862,
+        "TLS1.1": 20,
+        "TLS1.2": 11558
     }
 }
