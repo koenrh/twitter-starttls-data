@@ -4,7 +4,7 @@ mkdir -p tmp
 touch history.txt
 
 # strip first line to make it a valid JSON file
-curl https://ton.twitter.com/starttls/tls.json | tail -n +2 > tmp/tls.json
+curl https://ton.twitter.com/starttls/tls.json | sed 's/data\ \=\ //g' > tmp/tls.json
 DATE=$(/usr/local/bin/jq ".global.now" tmp/tls.json)
 
 echo "$(date +%Y%m%d%H%M%S) $DATE"
