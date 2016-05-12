@@ -1,39 +1,37 @@
 {
     "ciphers": {
-        "DHE_DSS_AES_128_CBC_SHA1": 1,
-        "DHE_RSA_AES_128_CBC_SHA1": 57,
-        "DHE_RSA_AES_128_GCM_SHA256": 627,
-        "DHE_RSA_AES_256_CBC_SHA1": 1838,
-        "DHE_RSA_AES_256_CBC_SHA256": 102411,
-        "DHE_RSA_CAMELLIA_256_CBC_SHA1": 3567,
-        "ECDHE_ECDSA_AES_128_GCM_SHA256": 49,
-        "ECDHE_RSA_3DES_EDE_CBC_SHA1": 16,
-        "ECDHE_RSA_AES_128_CBC_SHA1": 21289,
-        "ECDHE_RSA_AES_128_CBC_SHA256": 2576871,
-        "ECDHE_RSA_AES_128_GCM_SHA256": 7584125,
-        "ECDHE_RSA_AES_256_CBC_SHA1": 5420,
-        "ECDHE_RSA_AES_256_GCM_SHA384": 31027,
-        "RSA_3DES_EDE_CBC_SHA1": 163,
-        "RSA_AES_128_CBC_SHA1": 320309,
-        "RSA_AES_128_CBC_SHA256": 220,
-        "RSA_AES_128_GCM_SHA256": 287673,
-        "RSA_AES_256_CBC_SHA1": 133,
-        "RSA_AES_256_CBC_SHA256": 3126,
-        "RSA_ARCFOUR_128_MD5": 336,
-        "RSA_ARCFOUR_128_SHA1": 20321,
-        "RSA_CAMELLIA_128_CBC_SHA1": 1
+        "DHE_RSA_AES_128_CBC_SHA1": 58,
+        "DHE_RSA_AES_128_GCM_SHA256": 704,
+        "DHE_RSA_AES_256_CBC_SHA1": 1913,
+        "DHE_RSA_AES_256_CBC_SHA256": 109619,
+        "DHE_RSA_CAMELLIA_256_CBC_SHA1": 3203,
+        "ECDHE_ECDSA_AES_128_GCM_SHA256": 63,
+        "ECDHE_RSA_3DES_EDE_CBC_SHA1": 12,
+        "ECDHE_RSA_AES_128_CBC_SHA1": 22079,
+        "ECDHE_RSA_AES_128_CBC_SHA256": 2520558,
+        "ECDHE_RSA_AES_128_GCM_SHA256": 7610866,
+        "ECDHE_RSA_AES_256_CBC_SHA1": 5282,
+        "ECDHE_RSA_AES_256_GCM_SHA384": 34009,
+        "RSA_3DES_EDE_CBC_SHA1": 232,
+        "RSA_AES_128_CBC_SHA1": 311863,
+        "RSA_AES_128_CBC_SHA256": 209,
+        "RSA_AES_128_GCM_SHA256": 307494,
+        "RSA_AES_256_CBC_SHA1": 117,
+        "RSA_AES_256_CBC_SHA256": 3203,
+        "RSA_ARCFOUR_128_MD5": 320,
+        "RSA_ARCFOUR_128_SHA1": 19422
     },
     "counts": {
-        "non_tls": 537439,
-        "tls": 10959580,
-        "tls_nonpfs": 632282,
-        "tls_pfs": 10327298,
-        "total": 11497019
+        "non_tls": 522560,
+        "tls": 10951226,
+        "tls_nonpfs": 642860,
+        "tls_pfs": 10308366,
+        "total": 11473786
     },
-    "now": 1462924741,
+    "now": 1463011141,
     "proto": {
-        "TLS1.0": 249206,
-        "TLS1.1": 902,
-        "TLS1.2": 10709472
+        "TLS1.0": 240142,
+        "TLS1.1": 938,
+        "TLS1.2": 10710146
     }
 }
